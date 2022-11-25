@@ -1,0 +1,23 @@
+{
+    "IS_BASE": [{
+        "USER": "IBM_LUOSC",
+        "LANGU": "EN",
+        "KEY": "123456789",
+        "TYPE": "02",
+        "DEALER_CRM_ID": "0300000285"
+    }],
+    "IT_LIST": [{
+        "CRM_ORDER_ID": "1",
+        "PRODUCT_ID": "0000000000000000000000000000000010004000",
+        "QUANTITY": "10.00",
+        "UNIT": "ST",
+        "DEAL_TIME": "20211210",
+        "REASON": "01",
+        "DEALER_ORDER_ID": "1",
+        "ITEM_NO": "10",
+        "ITEM_QTY": "10.00"
+    }]
+
+
+
+}
